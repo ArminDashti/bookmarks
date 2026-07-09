@@ -1,0 +1,13 @@
+# AI Extensions
+
+| Logo | App | Owner | Origin | Free Plan | Paid Plan |
+|------|-----|-------|--------|-----------|-----------|
+| <img src="https://www.google.com/s2/favicons?domain=monica.im&sz=32" width="24" height="24" alt=""> | [Monica](https://monica.im) | [Monica](https://monica.im) | 🇨🇳 China | Daily conversation quota | From ~$9/mo (Premium) |
+| <img src="https://www.google.com/s2/favicons?domain=cline.bot&sz=32" width="24" height="24" alt=""> | [Cline](https://cline.bot) | [Cline](https://cline.bot) | 🇺🇸 United States | Free VS Code extension; BYOK | From $20/mo (hosted) |
+| <img src="https://www.google.com/s2/favicons?domain=github.com&sz=32" width="24" height="24" alt=""> | [GitHub Copilot](https://github.com/features/copilot) | [Microsoft](https://microsoft.com) | 🇺🇸 United States | Free for verified students/OSS maintainers | From $10/mo (Pro) |
+| <img src="https://www.google.com/s2/favicons?domain=kilo.ai&sz=32" width="24" height="24" alt=""> | [Kilo Code](https://kilo.ai) | [Kilo](https://kilo.ai) | 🇺🇸 United States | Free VS Code/JetBrains extension; BYOK | From $19/mo (Kilo Pass) |
+| <img src="https://www.google.com/s2/favicons?domain=tabnine.com&sz=32" width="24" height="24" alt=""> | [Tabnine](https://tabnine.com) | [Tabnine](https://tabnine.com) | 🇮🇱 Israel | Basic code completions | From $12/mo (Pro) |
+| <img src="https://www.google.com/s2/favicons?domain=continue.dev&sz=32" width="24" height="24" alt=""> | [Continue](https://continue.dev) | [Continue](https://continue.dev) | 🇺🇸 United States | Free open-source; BYOK or local models | From $20/mo (Continue Teams) |
+| <img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="24" height="24" alt=""> | [ChatGPT for Chrome](https://chromewebstore.google.com/detail/chatgpt/fnmihfhilbhfjbfjiphpkllnedbcjlpb) | [OpenAI](https://openai.com) | 🇺🇸 United States | Free with ChatGPT account | From $20/mo (ChatGPT Plus) |
+| <img src="https://www.google.com/s2/favicons?domain=grammarly.com&sz=32" width="24" height="24" alt=""> | [Grammarly](https://grammarly.com) | [Grammarly](https://grammarly.com) | 🇺🇸 United States | Basic writing assistance | From $12/mo (Pro) |
+| <img src="https://www.google.com/s2/favicons?domain=microsoft.com&sz=32" width="24" height="24" alt=""> | [Microsoft Copilot](https://microsoft.com/edge/features/copilot) | [Microsoft](https://microsoft.com) | 🇺🇸 United States | Free in Edge and Bing | From $20/mo (Microsoft 365 Copilot) |

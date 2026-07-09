@@ -1,0 +1,14 @@
+# AI APIs
+
+| Logo | App | Owner | Origin | Free Plan | Paid Plan |
+|------|-----|-------|--------|-----------|-----------|
+| <img src="https://www.google.com/s2/favicons?domain=platform.openai.com&sz=32" width="24" height="24" alt=""> | [OpenAI API](https://platform.openai.com) | [OpenAI](https://openai.com) | 🇺🇸 United States | ~$5 trial credits for new accounts | From $0.15/1M input tokens (GPT-4o mini) |
+| <img src="https://www.google.com/s2/favicons?domain=anthropic.com&sz=32" width="24" height="24" alt=""> | [Anthropic API](https://docs.anthropic.com) | [Anthropic](https://anthropic.com) | 🇺🇸 United States | ~$5 trial credits; no permanent free tier | From $0.80/1M input tokens (Haiku) |
+| <img src="https://www.google.com/s2/favicons?domain=ai.google.dev&sz=32" width="24" height="24" alt=""> | [Google Gemini API](https://ai.google.dev) | [Google](https://google.com) | 🇺🇸 United States | Free tier; no card required | From $0.10/1M input tokens (Flash-Lite) |
+| <img src="https://www.google.com/s2/favicons?domain=mistral.ai&sz=32" width="24" height="24" alt=""> | [Mistral API](https://mistral.ai) | [Mistral AI](https://mistral.ai) | 🇫🇷 France | Experiment tier: ~1B tokens/mo | From $0.10/1M input tokens (Small) |
+| <img src="https://www.google.com/s2/favicons?domain=deepseek.com&sz=32" width="24" height="24" alt=""> | [DeepSeek API](https://platform.deepseek.com) | [DeepSeek](https://deepseek.com) | 🇨🇳 China | Free web chat; generous API limits | From ~$0.14/1M input tokens |
+| <img src="https://www.google.com/s2/favicons?domain=cohere.com&sz=32" width="24" height="24" alt=""> | [Cohere API](https://cohere.com) | [Cohere](https://cohere.com) | 🇨🇦 Canada | 1,000 API calls/mo on trial | From $0.10/1M input tokens |
+| <img src="https://www.google.com/s2/favicons?domain=groq.com&sz=32" width="24" height="24" alt=""> | [Groq API](https://groq.com) | [Groq](https://groq.com) | 🇺🇸 United States | Free tier with rate limits | From $0.05/1M input tokens |
+| <img src="https://www.google.com/s2/favicons?domain=openrouter.ai&sz=32" width="24" height="24" alt=""> | [OpenRouter](https://openrouter.ai) | [OpenRouter](https://openrouter.ai) | 🇺🇸 United States | Free models available; pay-as-you-go | Per-model pricing from $0/1M tokens |
+| <img src="https://www.google.com/s2/favicons?domain=together.ai&sz=32" width="24" height="24" alt=""> | [Together AI](https://together.ai) | [Together AI](https://together.ai) | 🇺🇸 United States | $100 credits on signup | From $0.10/1M input tokens |
+| <img src="https://www.google.com/s2/favicons?domain=alibabacloud.com&sz=32" width="24" height="24" alt=""> | [Alibaba DashScope](https://www.alibabacloud.com/product/modelstudio) | [Alibaba Cloud](https://www.alibabacloud.com) | 🇨🇳 China | Free trial credits for new users | From ~$0.15/1M input tokens (Qwen) |
