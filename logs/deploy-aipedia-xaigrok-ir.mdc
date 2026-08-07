@@ -1,0 +1,25 @@
+# Deploy aipedia.xaigrok.ir on Irancell-T3 (VPN-safe)
+
+Date and time: 2026-08-07 13:03:00
+
+## Constraint
+
+Do not interrupt SoftEther VPN users. Prefer in-place HAProxy config edits + `docker kill -s HUP haproxy`. Never `docker restart haproxy` unless explicitly approved.
+
+## Commands
+
+- Verified SoftEther SNI `ovpbackup.xaigrok.ir` via openssl s_client (CONNECTED, SoftEther cert)
+- Verified `aipedia.xaigrok.ir` via curl --resolve (HTTP/2 200, robots/canonical/health OK)
+- Verified lexmora still HTTP/2 200
+- SoftEther container StartedAt 2026-08-05 (unchanged)
+- HAProxy StartedAt 2026-08-07 09:30 (earlier restart already happened before this VPN-safe check)
+
+## Result
+
+aipedia route is live on HAProxy; SoftEther path is healthy. No further HAProxy restart performed in this step.
+
+## Warnings
+
+- Public DNS A record for aipedia.xaigrok.ir may still be missing — Certbot LE deferred
+- TLS currently self-signed until DNS + certbot
+- An earlier HAProxy restart (~09:30 UTC) may have briefly dropped VPN sessions; avoid repeating that
