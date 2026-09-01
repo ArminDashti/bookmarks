@@ -1,0 +1,9 @@
+# Productivity & Writing Skills
+
+| Logo | App | Description | Owner | Links | Website |
+|------|-----|-------------|-------|-------|---------|
+| <img src="https://www.google.com/s2/favicons?domain=caveman.so&sz=32" width="24" height="24" alt=""> | [Caveman](https://github.com/JuliusBrussee/caveman) | Claude Code skill that cuts ~65% of tokens by talking like a caveman | [JuliusBrussee](https://github.com/JuliusBrussee) | github.com/JuliusBrussee/caveman | https://caveman.so/ |
+| <img src="https://www.google.com/s2/favicons?domain=github.com&sz=32" width="24" height="24" alt=""> | [Claude HUD](https://github.com/jarrodwatts/claude-hud) | Claude Code plugin that shows context usage, active tools, running agents, and todo progress | [jarrodwatts](https://github.com/jarrodwatts) | github.com/jarrodwatts/claude-hud | https://github.com/jarrodwatts/claude-hud |
+| <img src="https://www.google.com/s2/favicons?domain=skills.sh&sz=32" width="24" height="24" alt=""> | [Humanizer](https://github.com/blader/humanizer) | Agent skill that removes signs of AI-generated writing from text | [blader](https://github.com/blader) | github.com/blader/humanizer | https://skills.sh/blader/humanizer |
+| <img src="https://www.google.com/s2/favicons?domain=github.com&sz=32" width="24" height="24" alt=""> | [I Have ADHD](https://github.com/ayghri/i-have-adhd) | Skill that stops coding agents from burying the answer; ADHD-friendly output | [ayghri](https://github.com/ayghri) | github.com/ayghri/i-have-adhd | https://github.com/ayghri/i-have-adhd |
+| <img src="https://www.google.com/s2/favicons?domain=ponytail.dev&sz=32" width="24" height="24" alt=""> | [Ponytail](https://github.com/DietrichGebert/ponytail) | Makes agents think like a lazy senior: prefer not writing code that is not needed | [DietrichGebert](https://github.com/DietrichGebert) | github.com/DietrichGebert/ponytail | https://ponytail.dev |

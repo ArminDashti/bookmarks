@@ -1,0 +1,8 @@
+# MCP Registries & Official Resources
+
+| Logo | App | Description | Owner | Links | Website |
+|------|-----|-------------|-------|-------|---------|
+| <img src="https://www.google.com/s2/favicons?domain=modelcontextprotocol.io&sz=32" width="24" height="24" alt=""> | [MCP Official Site](https://modelcontextprotocol.io/) | Official Model Context Protocol docs, specs, and guides for clients and servers | [Anthropic](https://www.anthropic.com/) | modelcontextprotocol.io | https://modelcontextprotocol.io/ |
+| <img src="https://www.google.com/s2/favicons?domain=registry.modelcontextprotocol.io&sz=32" width="24" height="24" alt=""> | [MCP Registry](https://registry.modelcontextprotocol.io/) | Official public registry for discovering and browsing published MCP servers | [Model Context Protocol](https://modelcontextprotocol.io/) | registry.modelcontextprotocol.io | https://registry.modelcontextprotocol.io/ |
+| <img src="https://www.google.com/s2/favicons?domain=github.com&sz=32" width="24" height="24" alt=""> | [MCP Servers](https://github.com/modelcontextprotocol/servers) | Reference MCP server implementations and pointers to community servers | [Model Context Protocol](https://github.com/modelcontextprotocol) | github.com/modelcontextprotocol/servers | https://github.com/modelcontextprotocol/servers |
+| <img src="https://www.google.com/s2/favicons?domain=smithery.ai&sz=32" width="24" height="24" alt=""> | [Smithery](https://smithery.ai/) | Registry and directory of MCP servers for AI agents and coding tools | [Smithery](https://smithery.ai/) | smithery.ai | https://smithery.ai/ |
