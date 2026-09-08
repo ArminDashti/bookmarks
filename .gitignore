@@ -19,3 +19,5 @@
 # github-commit-push-all: large files (>5MB) — auto-managed
 
 # auto-managed: files > 5MB
+
+# AUTO-LARGE-FILES (>5MB) — managed by commit-push-to-github
