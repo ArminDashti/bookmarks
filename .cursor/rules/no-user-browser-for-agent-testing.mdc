@@ -1,8 +1,14 @@
 ---
 description: Agent WebUI testing must not use the user personal browser
 alwaysApply: true
+metadata:
+  version: 1.0.0
+  author: "Armin Dashti"
+  category: 
+  tags: []
+  last_updated: "2026-09-10 12:50:20"
+  uuid: 90248235-8cfe-4654-a407-4844305b0a15
 ---
-
 # Non-interrupting browser for agent testing
 
 When the agent tests, reviews, or debugs a webpage in a browser:
