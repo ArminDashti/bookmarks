@@ -2,6 +2,7 @@
 
 | Logo | App | Description | Owner | Links | Website |
 |------|-----|-------------|-------|-------|---------|
+| <img src="https://www.google.com/s2/favicons?domain=aider.chat&sz=32" width="24" height="24" alt=""> | [Aider](https://github.com/Aider-AI/aider) | AI pair programming in your terminal | [Aider-AI](https://github.com/Aider-AI) | github.com/Aider-AI/aider | https://aider.chat/ |
 | <img src="https://www.google.com/s2/favicons?domain=microsoft.com&sz=32" width="24" height="24" alt=""> | [AgentRC](https://github.com/microsoft/agentrc) | Context engineering for coding agents: measure AI-readiness, generate instructions, and eval drift | [Microsoft](https://github.com/microsoft) | github.com/microsoft/agentrc | https://github.com/microsoft/agentrc |
 | <img src="https://www.google.com/s2/favicons?domain=ai-devkit.com&sz=32" width="24" height="24" alt=""> | [AI DevKit](https://ai-devkit.com/) | Control plane for multi-agent coding: shared config, console, local memory, and verification gates | [codeaholicguy](https://github.com/codeaholicguy) | github.com/codeaholicguy/ai-devkit | https://ai-devkit.com/ |
 | <img src="https://www.google.com/s2/favicons?domain=github.com&sz=32" width="24" height="24" alt=""> | [Buzz](https://github.com/block/buzz) | Self-hostable workspace where humans and AI agents share channels, workflows, git events, and one audit trail | [Block](https://github.com/block) | github.com/block/buzz | https://github.com/block/buzz |
