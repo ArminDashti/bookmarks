@@ -1,0 +1,9 @@
+# Design & UI Skills
+
+| Logo | App | Description | Owner | Links | Website |
+|------|-----|-------------|-------|-------|---------|
+| <img src="https://www.google.com/s2/favicons?domain=emilkowal.ski&sz=32" width="24" height="24" alt=""> | [Emil Kowalski Skills](https://github.com/emilkowalski/skills) | Skills for designers and engineers | [emilkowalski](https://github.com/emilkowalski) | github.com/emilkowalski/skills | https://emilkowal.ski/skill |
+| <img src="https://www.google.com/s2/favicons?domain=gsap.com&sz=32" width="24" height="24" alt=""> | [GSAP Skills](https://github.com/greensock/gsap-skills) | Official AI skills teaching agents correct GSAP usage, patterns, and plugins | [GreenSock](https://github.com/greensock) | github.com/greensock/gsap-skills | https://github.com/greensock/gsap-skills |
+| <img src="https://www.google.com/s2/favicons?domain=impeccable.style&sz=32" width="24" height="24" alt=""> | [Impeccable](https://github.com/pbakaus/impeccable) | Design language that makes AI harnesses better at design | [pbakaus](https://github.com/pbakaus) | github.com/pbakaus/impeccable | https://impeccable.style |
+| <img src="https://www.google.com/s2/favicons?domain=tasteskill.dev&sz=32" width="24" height="24" alt=""> | [Taste Skill](https://github.com/Leonxlnx/taste-skill) | Gives AI good taste and reduces generic, boring UI/design slop | [Leonxlnx](https://github.com/Leonxlnx) | github.com/Leonxlnx/taste-skill | https://tasteskill.dev |
+| <img src="https://www.google.com/s2/favicons?domain=uupm.cc&sz=32" width="24" height="24" alt=""> | [UI UX Pro Max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | Design intelligence skill for professional UI/UX across platforms | [nextlevelbuilder](https://github.com/nextlevelbuilder) | github.com/nextlevelbuilder/ui-ux-pro-max-skill | https://www.uupm.cc/ |

@@ -1,0 +1,9 @@
+# Frameworks, Workflows & Integrations
+
+| Logo | App | Description | Owner | Links | Website |
+|------|-----|-------------|-------|-------|---------|
+| <img src="https://www.google.com/s2/favicons?domain=openai.com&sz=32" width="24" height="24" alt=""> | [Codex Plugin CC](https://github.com/openai/codex-plugin-cc) | Use Codex from Claude Code to review code or delegate tasks | [OpenAI](https://github.com/openai) | github.com/openai/codex-plugin-cc | https://github.com/openai/codex-plugin-cc |
+| <img src="https://www.google.com/s2/favicons?domain=github.com&sz=32" width="24" height="24" alt=""> | [gstack](https://github.com/garrytan/gstack) | Garry Tan's Claude Code setup: 23 opinionated tools covering CEO, design, eng, release, docs, and QA roles | [garrytan](https://github.com/garrytan) | github.com/garrytan/gstack | https://github.com/garrytan/gstack |
+| <img src="https://www.google.com/s2/favicons?domain=github.com&sz=32" width="24" height="24" alt=""> | [Last 30 Days](https://github.com/mvanhorn/last30days-skill) | Researches a topic across Reddit, X, YouTube, HN, Polymarket, and the web into a grounded summary | [mvanhorn](https://github.com/mvanhorn) | github.com/mvanhorn/last30days-skill | https://github.com/mvanhorn/last30days-skill |
+| <img src="https://www.google.com/s2/favicons?domain=remotion.dev&sz=32" width="24" height="24" alt=""> | [Remotion Skills](https://github.com/remotion-dev/skills) | Agent skills for Remotion programmatic video | [remotion-dev](https://github.com/remotion-dev) | github.com/remotion-dev/skills | https://github.com/remotion-dev/skills |
+| <img src="https://www.google.com/s2/favicons?domain=github.com&sz=32" width="24" height="24" alt=""> | [Superpowers](https://github.com/obra/superpowers) | Agentic skills framework and software development methodology | [obra](https://github.com/obra) | github.com/obra/superpowers | https://github.com/obra/superpowers |

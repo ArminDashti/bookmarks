@@ -1,0 +1,9 @@
+# AI Repo Context Tools
+
+| Logo | App | Description | Owner | Links | Website |
+|------|-----|-------------|-------|-------|---------|
+| <img src="https://www.google.com/s2/favicons?domain=github.com&sz=32" width="24" height="24" alt=""> | [Code2prompt](https://github.com/mufeedvh/code2prompt) | CLI that converts a codebase into a single LLM prompt with source tree, templating, and token counting | [mufeedvh](https://github.com/mufeedvh) | github.com/mufeedvh/code2prompt | https://github.com/mufeedvh/code2prompt |
+| <img src="https://www.google.com/s2/favicons?domain=github.com&sz=32" width="24" height="24" alt=""> | [files-to-prompt](https://github.com/simonw/files-to-prompt) | Concatenate a directory of files into one prompt-friendly string for LLMs | [simonw](https://github.com/simonw) | github.com/simonw/files-to-prompt | https://github.com/simonw/files-to-prompt |
+| <img src="https://www.google.com/s2/favicons?domain=gitingest.com&sz=32" width="24" height="24" alt=""> | [Gitingest](https://github.com/coderamp-labs/gitingest) | Replace hub with ingest in any GitHub URL to get a prompt-friendly extract of a codebase | [CodeRAMP Labs](https://github.com/coderamp-labs) | github.com/coderamp-labs/gitingest | https://gitingest.com |
+| <img src="https://www.google.com/s2/favicons?domain=repomix.com&sz=32" width="24" height="24" alt=""> | [Repomix](https://github.com/yamadashy/repomix) | Packs an entire repository into one AI-friendly file for Claude, ChatGPT, Gemini, and other LLM tools | [yamadashy](https://github.com/yamadashy) | github.com/yamadashy/repomix | https://repomix.com |
+| <img src="https://www.google.com/s2/favicons?domain=github.com&sz=32" width="24" height="24" alt=""> | [yek](https://github.com/mohsen1/yek) | Fast Rust tool to serialize text-based files in a repo or directory for LLM consumption | [mohsen1](https://github.com/mohsen1) | github.com/mohsen1/yek | https://github.com/mohsen1/yek |
